@@ -1,4 +1,4 @@
-### Hi there 👋, I'm <code>Nevermore</code>
+### Hi there 👋
 > regular code monkey, like the rest.
 
 <p align="center">
