@@ -10,7 +10,7 @@
 
 <table><tr>
 <td><img src=https://github-readme-stats.vercel.app/api?username=nevermore23274&count_private=true&show_icons=true border=0 width="470"></td>
-<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=nevermore23274&layout=compact&exclude_repo=XXiaoA.github.io border=0 width="400"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevermore23274&layout=compact&hide=Jupyter%20Notebook" border=0 width="400"></td>
 </tr></table>
 </p>
 
